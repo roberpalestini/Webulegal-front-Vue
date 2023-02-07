@@ -1,0 +1,154 @@
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec2"),
+    "data" : {
+        "title" : "﻿ABANDONO DE BUQUE",
+        "description" : "﻿ABANDONO DE BUQUE"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec5"),
+    "data" : {
+        "title" : "ABIGEATO",
+        "description" : "ABIGEATO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec6"),
+    "data" : {
+        "title" : "ABLACION E IMPLANTE",
+        "description" : "ABLACION E IMPLANTE"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec4"),
+    "data" : {
+        "title" : "ABASTECIMIENTO",
+        "description" : "ABASTECIMIENTO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec8"),
+    "data" : {
+        "title" : "ABORDAJE",
+        "description" : "ABORDAJE"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec3"),
+    "data" : {
+        "title" : "ABANDONO DE PERSONAS",
+        "description" : "ABANDONO DE PERSONAS"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdeca"),
+    "data" : {
+        "title" : "ABORTO NO PUNIBLE",
+        "description" : "ABORTO NO PUNIBLE"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdecb"),
+    "data" : {
+        "title" : "ABSOLUCION DE POSICIONES",
+        "description" : "ABSOLUCION DE POSICIONES"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdecc"),
+    "data" : {
+        "title" : "ABSOLUCION DEL ACUSADO",
+        "description" : "ABSOLUCION DEL ACUSADO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdecd"),
+    "data" : {
+        "title" : "ABUSO DE ARMAS",
+        "description" : "ABUSO DE ARMAS"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdece"),
+    "data" : {
+        "title" : "ABUSO DE AUTORIDAD",
+        "description" : "ABUSO DE AUTORIDAD"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdecf"),
+    "data" : {
+        "title" : "ABUSO DE CONFIANZA",
+        "description" : "ABUSO DE CONFIANZA"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec7"),
+    "data" : {
+        "title" : "ABOGADO",
+        "description" : "ABOGADO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdec9"),
+    "data" : {
+        "title" : "ABORTO",
+        "description" : "ABORTO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcded3"),
+    "data" : {
+        "title" : "ACCIDENTE DE TRANSITO",
+        "description" : "ACCIDENTE DE TRANSITO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcded4"),
+    "data" : {
+        "title" : "ACCIDENTE DEPORTIVO",
+        "description" : "ACCIDENTE DEPORTIVO"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcded5"),
+    "data" : {
+        "title" : "ACCIDENTE EN LA VIA PUBLICA",
+        "description" : "ACCIDENTE EN LA VIA PUBLICA"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcded6"),
+    "data" : {
+        "title" : "ACCIDENTES AEREOS",
+        "description" : "ACCIDENTES AEREOS"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcded8"),
+    "data" : {
+        "title" : "ACCIDENTES FERROVIARIOS",
+        "description" : "ACCIDENTES FERROVIARIOS"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcded9"),
+    "data" : {
+        "title" : "ACCIDENTES FLUVIALES",
+        "description" : "ACCIDENTES FLUVIALES"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdeda"),
+    "data" : {
+        "title" : "ACCIDENTES IN ITINERE",
+        "description" : "ACCIDENTES IN ITINERE"
+    }
+}
+{
+    "_id" : ObjectId("62efed393a829f2580dcdedb"),
+    "data" : {
+        "title" : "ACCIDENTES MARITIMOS",
+        "description" : "ACCIDENTES MARITIMOS"
+    }
+}
